@@ -8,6 +8,5 @@ Para rodar o site e com o login funcional deverá seguir os passos a seguir:
 3 - rodar o mySql
 4 - rodar o apache
 
-Login:
-aluno
-alunoti
+Login:aluno
+Senha: alunoti
